@@ -28,7 +28,7 @@ bash scripts/demo.sh
 
 ## 4. Contact
 If you have any questions, feel free to contact `Chi Tran`
-([ctran743@gmail.com](ctran743@gmail.com) or [tdchi18@clc.fitus.edu.vn](tdchi18@clc.fitus.edu.vn)).
+([ctran743@gmail.com](ctran743@gmail.com) or [tdchi18@clc.fitus.edu.vn](tdc2000@skku.edu)).
 
 ## 5. Acknowledgement
 Our framework is built using multiple open source, thanks for their great contributions.
